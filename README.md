@@ -1,5 +1,5 @@
 # URL_Shortener
-## It is a URL Shortening website where user puts a long url and it gives a short url
+## It is a URL Shortening website where user puts a long url and it gives a short url. Initially, It takes time to start, but we can use this smoothly after that.
 ### Live : https://urlshortnerbyankesh.netlify.app/
 ### Base Api : https://urlshortener-7aek.onrender.com
 
